@@ -12,3 +12,5 @@ general：导论书籍 包含CSAPP
 logic：数理逻辑导览  
 
 部分书籍内容比较落后，代码不能跑，自行斟酌
+
+pdf下载：https://zhuanlan.zhihu.com/p/350011379
